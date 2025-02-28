@@ -14,7 +14,7 @@ Technologies Used
 Frontend: Next.js, React, Tailwind CSS
 
 
-🔗 Portfolio Website (Update with your live portfolio link)
+🔗 [Portfolio Website](https://afaq-dev.vercel.app/) 
 
 Contact Me
 📧 Email: ufaq3022@gmail.com
