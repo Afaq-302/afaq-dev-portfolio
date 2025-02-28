@@ -12,5 +12,10 @@ Downloadable resume
 Contact form for collaboration opportunities
 Technologies Used
 Frontend: Next.js, React, Tailwind CSS
-Backend: Node.js (if applicable)
-Database: MongoDB (if applicable)
+
+
+🔗 Portfolio Website (Update with your live portfolio link)
+
+Contact Me
+📧 Email: ufaq3022@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/afaqy/
